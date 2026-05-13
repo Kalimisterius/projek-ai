@@ -1,0 +1,6 @@
+{
+  "name": "AI Team System",
+  "description": "A collaborative platform where specialized AI agents (Coder, Tester, Security, Database) work together as a team to solve complex technical tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
